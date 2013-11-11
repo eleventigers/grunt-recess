@@ -26,7 +26,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "recess": "~1.1.6",
+    "recess": "git://github.com/eleventigers/recess#24d1c582e787b8c045aebe07fac49bfae38bf160",
     "grunt-lib-contrib": "~0.6.0",
     "underscore": "~1.4"
   },
